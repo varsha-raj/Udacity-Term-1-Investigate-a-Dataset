@@ -7,4 +7,4 @@ Data analysis is conducted on tmdb data by posing study questions and exploring 
 The results are displayed using several visualization techniques.
 
 Jupyter Notebook was used to perform the data analsys.
-Results are presented in a HTML file
+Results are presented in an HTML file
